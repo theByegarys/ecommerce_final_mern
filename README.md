@@ -1,1 +1,1 @@
-# ecommerce_finalproject_mern
+# E-commerce Final Project of Backend Assignment 4.
